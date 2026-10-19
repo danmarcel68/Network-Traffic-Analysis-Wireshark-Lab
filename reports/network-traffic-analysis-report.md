@@ -16,24 +16,15 @@ The project also included troubleshooting network connectivity issues involving 
 
 ## 2. Lab Environment
 
-
-
 | Component | Configuration |
-
+|---|---|
 | Virtualization | Oracle VirtualBox |
-
 | Analysis workstation | Kali Linux |
-
 | Target system | Metasploitable 2 |
-
 | Packet analyzer | Wireshark 4.0.7 |
-
 | Kali NAT interface | eth0 — 10.0.2.15 |
-
 | Kali host-only interface | eth1 — 192.168.56.102 |
-
 | Metasploitable host-only IP | 192.168.56.103 |
-
 | Host-only network | 192.168.56.0/24 |
 
 
