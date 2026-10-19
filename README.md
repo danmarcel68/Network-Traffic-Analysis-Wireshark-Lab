@@ -28,8 +28,6 @@ The project includes three practical investigations, packet capture evidence, an
 
 | Component | Technology |
 
-|---|---|
-
 | Virtualization | Oracle VirtualBox |
 
 | Analysis workstation | Kali Linux |
