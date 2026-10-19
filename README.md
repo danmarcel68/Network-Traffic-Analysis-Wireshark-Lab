@@ -24,20 +24,13 @@ The project includes three practical investigations, packet capture evidence, an
 
 ## Lab Environment
 
-
-
 | Component | Technology |
-
+|---|---|
 | Virtualization | Oracle VirtualBox |
-
 | Analysis workstation | Kali Linux |
-
 | Target system | Metasploitable 2 |
-
 | Packet analyzer | Wireshark 4.0.7 |
-
 | Network interfaces | NAT and Host-Only |
-
 | Protocols analyzed | ICMP, TCP, HTTP, DNS |
 
 
