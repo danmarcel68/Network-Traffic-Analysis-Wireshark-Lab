@@ -234,5 +234,5 @@ The investigations demonstrate skills applicable to IT Support, Network Support,
 
 
 
-\*\*Environment:\*\* All testing was performed in an authorized virtual laboratory for educational and professional development purposes.
+**Environment:** All testing was performed in an authorized virtual laboratory for educational and professional development purposes.
 
